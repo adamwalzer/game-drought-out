@@ -2,7 +2,7 @@
     "id": "drought-out",
 	"media_folder": "drought-out",
     "version": 2,
-    "skoash": "1.1.2",
+    "skoash": "1.1.5",
     "dimensions": {
         "width": 960,
         "height": 540
